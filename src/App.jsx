@@ -1,9 +1,9 @@
 import { Canvas } from '@react-three/fiber'
 import './App.css'
-import Scene from './assets/Components/Scene/Scene'
-import Controls from './assets/Components/Controls/Controls'
-import Lights from './assets/Components/Lights/Lights'
-import Camera from './assets/Components/Camera/Camera'
+import Scene from './Components/Scene/Scene'
+import Controls from './Components/Controls/Controls'
+import Lights from './Components/Lights/Lights'
+import Camera from './Components/Camera/Camera'
 
 
 function App() {
